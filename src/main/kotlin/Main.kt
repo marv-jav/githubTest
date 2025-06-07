@@ -1,5 +1,5 @@
 package com.spiritcoder
 
 fun main() {
-    println("Hello World!")
+    println("Hello")
 }
